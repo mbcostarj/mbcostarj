@@ -1,7 +1,7 @@
 ### Miguel Costa
 _Desenvolvedor Full Stack_ ☕ 💻 🚀
 
-Atuando, desde 2009, com foco em `JavaScript`, passei a maior parte da minha carreira como Front End. Hoje me considero um Desenvolvedor Full Stack Pleno e meu objetivo é me tornar Sênior na stack.
+Atuando, desde 2009, com foco em `JavaScript`, passei a maior parte da minha carreira como Front End. Já trabalhei com alguns cms's, como `Wordpress` e `Drupal`. Fiz loja virtual, com `Magento` e `VTEX`. Hoje me considero um Desenvolvedor Full Stack Pleno e meu objetivo é me tornar Sênior na stack.
 Atualmente meus estudos estão focados em `Node.js`, `React` e `.NET` com banco de dados SQL e NoSQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcosta/)
