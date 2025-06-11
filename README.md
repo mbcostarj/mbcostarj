@@ -1,9 +1,6 @@
 ### Miguel Costa
 _Desenvolvedor Full Stack_ ☕ 💻 🚀
 
-Aqui eu compartilho um pouco do meu conhecimento, desenvolvendo exemplos de soluções usando alguns padrões de escrita de código e boas práticas.
-Amo `Front-end`, com uma paixão especial pelo `JavaScript`, mas nos últmos anos, tenho focado mais no `Back-end`, com `Node.js` e `C#(.NET Core)` e, falando em Banco de Dados, curto cycle ou nocycle e já tive experiência com `MySql`, `SqlServer`, `PostgresSQL` e `MongoDB`.
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrcosta/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mbcosta.rj@gmail.com)
